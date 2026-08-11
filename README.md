@@ -2,4 +2,4 @@
 Problem solving in informatics
 
 ## Related links
-* [CSES](https://cses.fi/problemset/user/442295/) (Solved. 24/400)
+* [CSES](https://cses.fi/problemset/user/442295/) (Solved. 26/400)
